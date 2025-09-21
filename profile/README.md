@@ -37,7 +37,44 @@
   * **전국 언어치료센터 위치 조회:** 지역별 언어치료센터의 위치를 지도에서 확인할 수 있습니다.
   * **연동 사용자 위치 조회:** 1시간마다 연동된 사용자의 위치를 알림으로 받을 수 있습니다.
 
-<!-- ## 📚 Technology Stack-->
+## 📚 Tech Stack
+
+<div align="center">
+
+### 📱 Frontend
+<p>
+<img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white"/>
+<img src="https://img.shields.io/badge/React_Navigation-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kakao_Map-FFCD00?style=flat-square&logo=kakao&logoColor=black"/>
+</p>
+
+### 🚀 Backend
+<p>
+<img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot_3.5.3-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"/>
+</p>
+
+### 🤖 AI
+<p>
+<img src="https://img.shields.io/badge/Python_3.11-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI_Whisper-412991?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Transformers-FFD700?style=flat-square&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat-square&logo=database&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Uvicorn-499848?style=flat-square&logo=gunicorn&logoColor=white"/>
+</p>
+
+</div>
+
+
 
 ## 👥 Our Team
 
