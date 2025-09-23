@@ -1,7 +1,7 @@
 <h5>Team 톡깽이</h5>
 
-# 💬 하고 싶은 말을 바로 꺼내는 도구 Talky
-<img src="https://private-user-images.githubusercontent.com/190811869/492740092-c9329ee2-bf52-4364-b178-f5c170620484.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTg2MjA2NDYsIm5iZiI6MTc1ODYyMDM0NiwicGF0aCI6Ii8xOTA4MTE4NjkvNDkyNzQwMDkyLWM5MzI5ZWUyLWJmNTItNDM2NC1iMTc4LWY1YzE3MDYyMDQ4NC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwOTIzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDkyM1QwOTM5MDZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yMDIzNjE5NjI1ZTNlNmMzMWJkN2NjZGU1ZmY0MGM3ZTRhODk3ZDhmOGIwMmI3MDk0Y2FmOTUxOWQ3MDhiMmRhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.ec1dxbO0ms82_bpZEtcJwLFcpPo08xKQ0Sm6PttCXOs" />
+# 💬 하고 싶은 말을 바로 꺼내는 도구: Talky
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/c9329ee2-bf52-4364-b178-f5c170620484" />
 
 > **언어 표현에 제약이 있는 사용자를 위한 AAC(보완대체의사소통) 기반 앱 서비스**
 
@@ -25,7 +25,7 @@
 
 ---
 ## ⚙️ 주요 기능
-<img src="https://private-user-images.githubusercontent.com/190811869/492746545-c81eb557-c01b-41e2-a67f-047771a853b3.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTg2MjE1ODUsIm5iZiI6MTc1ODYyMTI4NSwicGF0aCI6Ii8xOTA4MTE4NjkvNDkyNzQ2NTQ1LWM4MWViNTU3LWMwMWItNDFlMi1hNjdmLTA0Nzc3MWE4NTNiMy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwOTIzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDkyM1QwOTU0NDVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jOWFlNGEzMGI1MWRhNzg0ZTk0YzdmY2RkM2M3YTE3OGE0ZWViNzgzNjk3YjUyY2FmYzQxMDQ0N2RiNjk0MGNkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.L0lU9z5qFW4nz8gzMN24-Dojrbs3rP3BPCuRW0USSUI" />
+<img width="1719" height="1080" alt="Image" src="https://github.com/user-attachments/assets/c81eb557-c01b-41e2-a67f-047771a853b3" />
 
 **1. 일반 사용자** 
 
@@ -40,9 +40,10 @@
   * **전국 언어치료센터 위치 조회:** 지역별 언어치료센터의 위치를 지도에서 확인.
 
 ---
-## 📚 기술 스택
+## 📚 기능 구조도 및 기술 스택
 
 <div align="center">
+<img width="685" height="370" alt="Image" src="https://github.com/user-attachments/assets/9a760fcc-04b9-4d23-bf51-2d760601b646" />
 
 ### 📱 Frontend
 <p>
@@ -85,6 +86,9 @@
 
 | 김서희 (PM,FE) | 김예나 (FE) | 이준석 (BE) | 조주한 (BE) | 최용주 (AI) | 정수현 (DE) |
 |-------------|-------------|-------------|----------------|-------------|-------------|
-| <img src="https://github.com/suki186.png" width="100" height="100"/> | <img src="https://github.com/a-neey.png" width="100" height="100"/> | <img src="https://github.com/Joonseok-Lee.png" width="100" height="100"/> | <img src="https://github.com/zzuhannn.png" width="100" height="100"/> | <img src="https://github.com/YJEND.png" width="100" height="100"/> | <img src="https://private-user-images.githubusercontent.com/190811869/492742843-e036ebbb-59a5-48ca-a679-9fa899a7990b.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTg2MjEwMDYsIm5iZiI6MTc1ODYyMDcwNiwicGF0aCI6Ii8xOTA4MTE4NjkvNDkyNzQyODQzLWUwMzZlYmJiLTU5YTUtNDhjYS1hNjc5LTlmYTg5OWE3OTkwYi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwOTIzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDkyM1QwOTQ1MDZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04YTE2M2E4M2ZkYjdiZDkwMDhhYzQ3Y2Y0OGIyMDI4OTU5YjRmYmQ0OWQzY2MyZTkyZmNiMzI0YWExYzVhYTUyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.LB4u1HhX9zt1N06VtGF1MKExaz7do2GI2YP_eGMsNWM" width="100" height="100" />
-[@suki186](https://github.com/suki186) | [@a-neey](https://github.com/a-neey) | [@Joonseok-Lee](https://github.com/Joonseok-Lee) | [@zzuhannn](https://github.com/zzuhannn) | [@YJEND](https://github.com/YJEND) | 
+| <img src="https://github.com/suki186.png" width="100" height="100"/> | <img src="https://github.com/a-neey.png" width="100" height="100"/> | <img src="https://github.com/Joonseok-Lee.png" width="100" height="100"/> | <img src="https://github.com/zzuhannn.png" width="100" height="100"/> | <img src="https://github.com/YJEND.png" width="100" height="100"/> | <img width="100" height="100" alt="Image" src="https://github.com/user-attachments/assets/e036ebbb-59a5-48ca-a679-9fa899a7990b" /> |
+[@suki186](https://github.com/suki186) | [@a-neey](https://github.com/a-neey) | [@Joonseok-Lee](https://github.com/Joonseok-Lee) | [@zzuhannn](https://github.com/zzuhannn) | [@YJEND](https://github.com/YJEND) | |
 
+<br/>
+
+> 프리미엄 요금제: 음성의 언어 다양화, 자연스러운 말투(사용자 개인의 음성 기반), 즐겨찾기 문장 개수 무제한, 연동된 사용자의 위치 추적
