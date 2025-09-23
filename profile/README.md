@@ -1,7 +1,10 @@
 <h5>Team 톡깽이</h5>
 
+<div align="center">
+ 
 # 💬 하고 싶은 말을 바로 꺼내는 도구: Talky
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/c9329ee2-bf52-4364-b178-f5c170620484" />
+</div>
 
 > **언어 표현에 제약이 있는 사용자를 위한 AAC(보완대체의사소통) 기반 앱 서비스**
 
@@ -84,7 +87,7 @@
 
 ## 👥 팀원 소개
 
-| 김서희 (PM,FE) | 김예나 (FE) | 이준석 (BE) | 조주한 (BE) | 최용주 (AI) | 정수현 (DE) |
+| 김서희 (PM,FE) | 김예나 (FE) | 이준석 (BE) | 조주한 (BE,AI) | 최용주 (AI) | 정수현 (DE) |
 |-------------|-------------|-------------|----------------|-------------|-------------|
 | <img src="https://github.com/suki186.png" width="100" height="100"/> | <img src="https://github.com/a-neey.png" width="100" height="100"/> | <img src="https://github.com/Joonseok-Lee.png" width="100" height="100"/> | <img src="https://github.com/zzuhannn.png" width="100" height="100"/> | <img src="https://github.com/YJEND.png" width="100" height="100"/> | <img width="100" height="100" alt="Image" src="https://github.com/user-attachments/assets/e036ebbb-59a5-48ca-a679-9fa899a7990b" /> |
 [@suki186](https://github.com/suki186) | [@a-neey](https://github.com/a-neey) | [@Joonseok-Lee](https://github.com/Joonseok-Lee) | [@zzuhannn](https://github.com/zzuhannn) | [@YJEND](https://github.com/YJEND) | |
