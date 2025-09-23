@@ -1,53 +1,58 @@
-### Team 톡깽이
+<h5>Team 톡깽이</h5>
 
-<div align="center">
-  <h1>💬 하고 싶은 말을 바로 꺼내는 도구 Talky </h1>
-  <p>🔍 언어 표현에 제약이 있는 사용자를 위한 AAC(보완대체의사소통) 기반 앱 서비스 🔍</p>
-</div>
+# 💬 하고 싶은 말을 바로 꺼내는 도구 Talky
+<img src="https://private-user-images.githubusercontent.com/190811869/492740092-c9329ee2-bf52-4364-b178-f5c170620484.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTg2MjA2NDYsIm5iZiI6MTc1ODYyMDM0NiwicGF0aCI6Ii8xOTA4MTE4NjkvNDkyNzQwMDkyLWM5MzI5ZWUyLWJmNTItNDM2NC1iMTc4LWY1YzE3MDYyMDQ4NC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwOTIzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDkyM1QwOTM5MDZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yMDIzNjE5NjI1ZTNlNmMzMWJkN2NjZGU1ZmY0MGM3ZTRhODk3ZDhmOGIwMmI3MDk0Y2FmOTUxOWQ3MDhiMmRhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.ec1dxbO0ms82_bpZEtcJwLFcpPo08xKQ0Sm6PttCXOs" />
 
-## 💡 Project Introduction
-후천적 실어증, 발화 장애 등으로 인해 말로 의사 표현이 어려운 사람들은 일상생활에서 타인과 소통하는 데 큰 제약을 받습니다. 특히 브로카 실어증 환자는 사고 능력과 언어 이해력은 온전하지만, 보호자의 도움 없이 말로 표현하는 데 어려움을 겪습니다.
+> **언어 표현에 제약이 있는 사용자를 위한 AAC(보완대체의사소통) 기반 앱 서비스**
 
-말을 잃어버린 순간에도, 마음은 온전합니다. **Talky**는 그 마음이 세상과 만나는 다리가 되어줄 거예요. 
+---
 
-장소와 상황에 맞는 문장들을 대신 꺼내주고, 따뜻한 목소리로 전해드립니다. 이제, 망설이지 말고 **Talky**와 함께 마음껏 이야기하세요. 당신의 목소리를 되찾는 가장 따뜻한 방법, **Talky**입니다.
+## 💡 프로젝트 개요  
+이 서비스는 브로카 실어증 환자를 비롯한 언어 표현의 제약이 있는 사용자들이 장소와 상황에 맞게 문장을 자동으로 추천받고, 버튼 한 번으로 음성으로 발화(Text-To-Speech)할 수 있도록 도와주는 보완대체의사소통(AAC) 기반 앱 서비스입니다.
 
-## 🏆 Expected Effects
+---
+## 🏆 기대 효과
 
 이 서비스는 발화에 어려움을 겪는 사용자의 자립성과 안정감을 향상시키는 것을 목표로 하며, 반복 사용을 통한 언어 학습 효과를 기대합니다.
 
-  * 장소와 상황에 맞는 자동 문장 추천을 통해 의사소통을 돕습니다.
-  * TTS 버튼으로 음성을 발화하고, STT 기능으로 상대방의 말을 인식하여 대화를 이어갑니다.
-  * 즐겨찾기 문장 등록 기능을 제공하여 자주 사용하는 문장을 빠르게 이용할 수 있습니다.
-  * 롤플레잉 기반의 발화 연습 모드를 통해 언어 학습을 지원합니다.
+### 사용자의 자립성과 안정성 향상
+-   장소와 상황에 맞는 자동 문장 추천
+-   TTS 버튼으로 음성 발화, STT 기능으로 상대방 말 인식
 
+### 반복 사용을 통한 언어 학습
+-   즐겨찾기 문장 등록 기능
+-   롤플레잉 기반 발화 연습 모드 지원
 
-## ⚙️ Main Project Features
+---
+## ⚙️ 주요 기능
+<img src="https://private-user-images.githubusercontent.com/190811869/492746545-c81eb557-c01b-41e2-a67f-047771a853b3.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTg2MjE1ODUsIm5iZiI6MTc1ODYyMTI4NSwicGF0aCI6Ii8xOTA4MTE4NjkvNDkyNzQ2NTQ1LWM4MWViNTU3LWMwMWItNDFlMi1hNjdmLTA0Nzc3MWE4NTNiMy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwOTIzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDkyM1QwOTU0NDVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jOWFlNGEzMGI1MWRhNzg0ZTk0YzdmY2RkM2M3YTE3OGE0ZWViNzgzNjk3YjUyY2FmYzQxMDQ0N2RiNjk0MGNkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.L0lU9z5qFW4nz8gzMN24-Dojrbs3rP3BPCuRW0USSUI" />
 
-**1. 일반 사용자 기능** 
+**1. 일반 사용자** 
 
-  * **상황, 장소 기반 문장 추천:** 사용자가 장소와 현재 상황을 입력하면 AI가 추천 문장을 제시합니다.
-  * **TTS, STT 기반 대화:** 추천 문장을 음성으로 출력하고, 상대방의 말을 인식하여 그에 맞는 대답을 다시 추천 문장으로 제공합니다.
-  * **발화 연습 모드:** 병원, 식당 등 실제 상황을 기반으로 한 역할극을 통해 발화 연습을 진행합니다.
-  * **부가 기능:** 즐겨찾기 문장 설정, 사용자 입력 기능, 앱 시작 문구 설정, 긴급 호출 기능 등이 포함됩니다.
+  * **상황, 장소 기반 문장 추천:** 사용자가 장소와 현재 상황을 입력하면 AI가 추천 문장을 제시.
+  * **TTS, STT 기반 대화:** 추천 문장을 음성으로 출력하고, 상대방의 말을 인식하여 그에 맞는 대답을 다시 문장으로 제공.
+  * **발화 연습 모드:** 병원, 식당 등 실제 상황을 기반으로 한 역할극을 통해 발화 연습 진행.
+  * **부가 기능:** 즐겨찾기 문장 설정, 사용자 입력 기능, 앱 시작 문구 설정, 긴급 호출 기능 등
 
-**2. 보호자 기능**
+**2. 보호자**
 
-  * **연동 사용자 사용 이력 통계:** 최근 일주일간의 TTS 사용 횟수, 자주 사용하는 문장, 시간/장소별 사용 분포 등을 확인할 수 있습니다.
-  * **전국 언어치료센터 위치 조회:** 지역별 언어치료센터의 위치를 지도에서 확인할 수 있습니다.
-  * **연동 사용자 위치 조회:** 1시간마다 연동된 사용자의 위치를 알림으로 받을 수 있습니다.
+  * **연동 사용자 사용 이력 통계:** 최근 일주일간의 TTS 사용 횟수, 자주 사용하는 문장, 시간/장소별 사용 분포 등 확인.
+  * **전국 언어치료센터 위치 조회:** 지역별 언어치료센터의 위치를 지도에서 확인.
 
-## 📚 Tech Stack
+---
+## 📚 기술 스택
 
 <div align="center">
 
 ### 📱 Frontend
 <p>
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white"/>
-<img src="https://img.shields.io/badge/React_Navigation-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/StyleSheet-DB7093?style=flat-square&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Context--Api-222222?style=flat-square&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kakao_Map-FFCD00?style=flat-square&logo=kakao&logoColor=black"/>
+<img src="https://img.shields.io/badge/Google_Map-4285F4?style=flat-square&logo=google&logoColor=white"/>
 </p>
 
 ### 🚀 Backend
@@ -74,12 +79,12 @@
 
 </div>
 
+---
 
+## 👥 팀원 소개
 
-## 👥 Our Team
-
-| 김서희 (PM,FE) | 김예나 (FE) | 이준석 (BE) | 조주한 (BE) | 최용주 (AI) |
-|-------------|-------------|-------------|----------------|-------------|
-| <img src="https://github.com/suki186.png" width="100" height="100"/> | <img src="https://github.com/a-neey.png" width="100" height="100"/> | <img src="https://github.com/Joonseok-Lee.png" width="100" height="100"/> | <img src="https://github.com/zzuhannn.png" width="100" height="100"/> | <img src="https://github.com/YJEND.png" width="100" height="100"/> |
-[@suki186](https://github.com/suki186) | [@a-neey](https://github.com/a-neey) | [@Joonseok-Lee](https://github.com/Joonseok-Lee) | [@zzuhannn](https://github.com/zzuhannn) | [@YJEND](https://github.com/YJEND) |
+| 김서희 (PM,FE) | 김예나 (FE) | 이준석 (BE) | 조주한 (BE) | 최용주 (AI) | 정수현 (DE) |
+|-------------|-------------|-------------|----------------|-------------|-------------|
+| <img src="https://github.com/suki186.png" width="100" height="100"/> | <img src="https://github.com/a-neey.png" width="100" height="100"/> | <img src="https://github.com/Joonseok-Lee.png" width="100" height="100"/> | <img src="https://github.com/zzuhannn.png" width="100" height="100"/> | <img src="https://github.com/YJEND.png" width="100" height="100"/> | <img src="https://private-user-images.githubusercontent.com/190811869/492742843-e036ebbb-59a5-48ca-a679-9fa899a7990b.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTg2MjEwMDYsIm5iZiI6MTc1ODYyMDcwNiwicGF0aCI6Ii8xOTA4MTE4NjkvNDkyNzQyODQzLWUwMzZlYmJiLTU5YTUtNDhjYS1hNjc5LTlmYTg5OWE3OTkwYi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwOTIzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDkyM1QwOTQ1MDZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04YTE2M2E4M2ZkYjdiZDkwMDhhYzQ3Y2Y0OGIyMDI4OTU5YjRmYmQ0OWQzY2MyZTkyZmNiMzI0YWExYzVhYTUyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.LB4u1HhX9zt1N06VtGF1MKExaz7do2GI2YP_eGMsNWM" width="100" height="100" />
+[@suki186](https://github.com/suki186) | [@a-neey](https://github.com/a-neey) | [@Joonseok-Lee](https://github.com/Joonseok-Lee) | [@zzuhannn](https://github.com/zzuhannn) | [@YJEND](https://github.com/YJEND) | 
 
