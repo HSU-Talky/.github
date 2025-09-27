@@ -1,9 +1,10 @@
+
 <h5>Team 톡깽이</h5>
 
 <div align="center">
  
 # 💬 하고 싶은 말을 바로 꺼내는 도구: Talky
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/c9329ee2-bf52-4364-b178-f5c170620484" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/fd3bac30-3d21-4ee4-9bb3-02a9dfe110a9" />
 </div>
 
 > **언어 표현에 제약이 있는 사용자를 위한 AAC(보완대체의사소통) 기반 앱 서비스**
@@ -41,6 +42,20 @@
 
   * **연동 사용자 사용 이력 통계:** 최근 일주일간의 TTS 사용 횟수, 자주 사용하는 문장, 시간/장소별 사용 분포 등 확인.
   * **전국 언어치료센터 위치 조회:** 지역별 언어치료센터의 위치를 지도에서 확인.
+
+<br/>
+
+| 메인 화면 | 추천 문장 조회 | 즐겨찾기 문장 조회 |
+| ---------- | -----------| --------|
+| <img width="360" height="780" alt="Image" src="https://github.com/user-attachments/assets/9c01d1a0-c70f-492a-b628-9d387092bfd9" /> | <img width="360" height="843" alt="Image" src="https://github.com/user-attachments/assets/af8f0802-ad74-4b1e-b297-5f893667309d" /> | <img width="360" height="780" alt="Image" src="https://github.com/user-attachments/assets/20c4dead-1c00-4c42-9cb0-726c1f7609da" /> |
+
+| 롤플레잉 연습 화면 |  |
+| ---------- | -----------|
+| <img width="360" height="780" alt="Image" src="https://github.com/user-attachments/assets/02eb6fa7-5186-4db8-852f-1bdb15f5a35f" /> | <img width="360" height="780" alt="Image" src="https://github.com/user-attachments/assets/1c40eedc-412e-4e4a-944e-24735daa35a7" /> |
+
+| 보호자 통계 화면 | 보호자 지도 화면 |
+| ---------- | -----------|
+| <img width="360" height="996" alt="Image" src="https://github.com/user-attachments/assets/95743308-421a-4bab-bf63-fe71df1c31a9" /> | <img width="360" height="780" alt="Image" src="https://github.com/user-attachments/assets/047865be-4f5a-4046-aa35-591828558a45" /> |
 
 ---
 ## 📚 기능 구조도 및 기술 스택
