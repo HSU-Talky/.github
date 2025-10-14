@@ -97,15 +97,15 @@
 </p>
 
 </div>
-
+https://github.com/SsUu-hub
 ---
 
 ## 👥 팀원 소개
 
 | 김서희 (PM,FE) | 김예나 (FE) | 이준석 (BE) | 조주한 (BE,AI) | 최용주 (AI) | 정수현 (DE) |
 |-------------|-------------|-------------|----------------|-------------|-------------|
-| <img src="https://github.com/suki186.png" width="100" height="100"/> | <img src="https://github.com/a-neey.png" width="100" height="100"/> | <img src="https://github.com/Joonseok-Lee.png" width="100" height="100"/> | <img src="https://github.com/zzuhannn.png" width="100" height="100"/> | <img src="https://github.com/YJEND.png" width="100" height="100"/> | <img width="100" height="100" alt="Image" src="https://github.com/user-attachments/assets/e036ebbb-59a5-48ca-a679-9fa899a7990b" /> |
-[@suki186](https://github.com/suki186) | [@a-neey](https://github.com/a-neey) | [@Joonseok-Lee](https://github.com/Joonseok-Lee) | [@zzuhannn](https://github.com/zzuhannn) | [@YJEND](https://github.com/YJEND) | |
+| <img src="https://github.com/suki186.png" width="100" height="100"/> | <img src="https://github.com/a-neey.png" width="100" height="100"/> | <img src="https://github.com/Joonseok-Lee.png" width="100" height="100"/> | <img src="https://github.com/zzuhannn.png" width="100" height="100"/> | <img src="https://github.com/YJEND.png" width="100" height="100"/> | <img src="https://github.com/SsUu-hub.png" width="100" height="100"/> |
+[@suki186](https://github.com/suki186) | [@a-neey](https://github.com/a-neey) | [@Joonseok-Lee](https://github.com/Joonseok-Lee) | [@zzuhannn](https://github.com/zzuhannn) | [@YJEND](https://github.com/YJEND) |[@SsUu-hub](https://github.com/SsUu-hub) |
 
 <br/>
 
