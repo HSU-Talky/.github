@@ -97,7 +97,7 @@
 </p>
 
 </div>
-https://github.com/SsUu-hub
+
 ---
 
 ## 👥 팀원 소개
